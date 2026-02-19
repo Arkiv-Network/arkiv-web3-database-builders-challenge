@@ -78,7 +78,6 @@ All submissions must include:
 - **The stipend is paid in lieu of self-organized travel and event admission.** Winners are responsible for arranging their own flights, accommodation, and EthCC tickets. The $2,500 is intended to cover these costs at the winner's discretion.
 - **One prize per team.** If a winning team has multiple members, the team receives one stipend ($2,500). How the team splits the stipend is their responsibility.
 - **KYC is required to claim the prize, not to enter.** All team members must complete KYC individually before funds are disbursed. The prize is sent to a single wallet address confirmed by all team members during the KYC process. See Section 7.
-- **Demo video required for prize claim.** Winners must record a 2-3 minute demo video (English or Spanish) of their submission before funds are disbursed. This is not required at submission time.
 - **Prize is non-transferable** except as described in the runner-up policy (Section 6).
 - **Tax obligations** are the winner's sole responsibility. The Organizer does not provide tax advice and will not withhold taxes.
 
