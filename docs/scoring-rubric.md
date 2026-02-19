@@ -97,7 +97,7 @@ Each section score is the average of its sub-criteria (all on 1–5 scale), so t
 
 ## Judge Scorecard Template
 
-**Confirmed panel:** Marcos (Product @ Arkiv), Seweryn (Platfrom @ Arkiv), Veronica (1st prize winner @ Arkiv Track, Sub0 Hackathon BA 2025 )
+**Confirmed panel:** Marcos (Product @ Arkiv), Seweryn (Platform @ Arkiv), Veronica (1st prize winner @ Arkiv Track, Sub0 Hackathon BA 2025)
 
 Each judge fills out one per submission:
 
