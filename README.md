@@ -30,7 +30,7 @@ All three are scored on the same rubric. There's no advantage to picking one ove
 
 **The obvious:**
 
-- Two winners, **$2,500 USD each** (paid in USDC). That's $2.5k towards flights and a EthCC ticket. EthCC Cannes, March 30 – April 2\. All logistics, visa applications (if needed) will be on your shoulders, we support with the funds\!
+- Two winners, **$2,500 USD each** (paid in USDC). That's $2.5k towards flights and a ticket for EthCC [9], March 30 – April 2\. All logistics, visa applications (if needed) will be on your shoulders, we support with the funds\!
 - If you're a larger team (e.g. more than 2 people) or a smaller team \- that's fine, but the max prize delivered will be $2500 for each of the two winning submissions. How you split the funds is up to you!
 
 **The less obvious:**

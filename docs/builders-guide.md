@@ -71,7 +71,7 @@ Build a web3-native Job Board where job postings, company profiles, and applicat
 
 ### Suggested entity design
 
-Think in terms of **two core entity types**: a Company profile (one per wallet) and Job Listings (owned by the company's wallet). Use queryable attributes for things like status, discipline, location type — anything users will want to filter by. The Arkiv docs cover entity schemas, queryable attributes, and relationships in detail.
+Think in terms of **two core entity types**: a Company profile (one per wallet) and Job Listings (owned by the company's wallet). Use queryable attributes for things like status, discipline, location type — anything users will want to filter by.
 
 ---
 
@@ -110,7 +110,7 @@ Build a web3-native event platform where events, RSVPs, and attendance records a
 
 ### Suggested entity design
 
-Think in terms of **three core entity types**: an Organizer profile (one per wallet), Events (owned by the organizer), and RSVPs (owned by the attendee's wallet — a different wallet than the event owner). This naturally demonstrates entity relationships and cross-wallet ownership. See the Arkiv docs for how to set up these patterns.
+Think in terms of **three core entity types**: an Organizer profile (one per wallet), Events (owned by the organizer), and RSVPs (owned by the attendee's wallet — a different wallet than the event owner).
 
 ---
 
@@ -147,7 +147,7 @@ Build a web3-native knowledge base where documentation, articles, and edits are 
 
 ### Suggested entity design
 
-Think in terms of **two core entity types** (with an optional third): a Space (one per wallet), Pages within a space, and optionally Revisions for version history. Pages reference their parent space, and revisions reference their parent page. Nested page structures (parent→child) are a great way to show entity relationship depth. Check the Arkiv docs for how entity references and querying work.
+Think in terms of **two core entity types** (with an optional third): a Space (one per wallet), Pages within a space, and optionally Revisions for version history. Pages reference their parent space, and revisions reference their parent page. Nested page structures (parent→child) are a great way to show entity relationship depth.
 
 ---
 
@@ -163,12 +163,11 @@ This is 40% of your score. Same rubric regardless of vertical.
 **Medium (decent score):**
 - Proper entity schema with queryable attributes
 - Using Arkiv's query capabilities for filtering and search
-- Wallet-based ownership enforced through entities
+- Wallet-based ownership
 
 **Deep (high score):**
 - Entity relationships maintained properly (parent → children via references)
 - Rational expiration dates — thoughtful choices about how long each entity type should live (see [A note on expiration](#a-note-on-expiration))
-- On-chain status management with lifecycle transitions
 - Multiple entity types working together
 - Creative use of Arkiv features we haven't thought of
 
@@ -200,10 +199,10 @@ All Arkiv entities have an expiration date — this is core to how Arkiv works, 
 | **Vertical chosen** | Job Board, Event Platform, or Knowledge Base |
 | **GitHub repo** | Public, open source, includes README with setup instructions |
 | **Demo link** | Working deployment (Vercel, Netlify, etc.) connected to Arkiv testnet |
-| **Demo video** | Optional but recommended — 2-3 min walkthrough. **Winners will be required to record a demo video before prize claim.** |
+| **Demo video** | Optionally, you can submit slides, but we recommend a 2-3 min walkthrough/demo. |
 | **Team info** | Names, GitHub handles, wallet address for prize |
 
-Submission form: [Submit here](https://tally.so/r/dW60jV)
+Submission form: [Submit here](https://forms.arkiv.network/web3-db-challenge)
 
 ---
 

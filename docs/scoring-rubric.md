@@ -24,10 +24,10 @@ This is the core of the challenge. We're evaluating how meaningfully Arkiv is us
 |-------------|----------|-----------|----------------|
 | **Entity schema design** | Single blob entity, no structure | Separate entity types with typed fields (e.g., profiles + listings, organizers + events, spaces + pages) | Well-designed schema with queryable attributes, proper field types, and clear separation of concerns |
 | **Query usage** | Only reads by ID / key | Filters by 1-2 attributes (e.g., status, category, location) | Uses multiple query filters, attribute-based sorting, demonstrates understanding of Arkiv's query model |
-| **Ownership model** | No wallet association | Wallet owns entities but not enforced | Wallet-bound ownership with proper access control — only the owner can edit/delete their entities |
+| **Ownership model** | No wallet association | Project wallet owns entities and reference end-user | End-user wallet-bound ownership, only the owner can edit/delete their entities |
 | **Entity relationships** | No relationships | Parent→child references exist loosely (e.g., profile→listings, organizer→events, space→pages) | Clear entity references, maintained on create/delete, relationships used for navigation and data integrity |
 | **Expiration dates** | No expiration set, or same expiration on everything | Expiration dates present and reasonable for the domain (e.g., listings expire after 30-90 days, events expire after end date) | Thoughtful, differentiated expiration — different entity types have different lifespans reflecting real-world product logic |
-| **Advanced features** | None | Status lifecycle transitions (e.g., active→filled→expired, draft→published→ended) | Multiple: status management, flagging as entities, verification model (proofs, state roots), or creative use of Arkiv features we haven't thought of |
+| **Advanced features** | None | Entity lifecycle transitions based on business logic (e.g., active→filled→expired, draft→published→ended) | Multiple: Entity updates based on business logic, flags as entities, or creative use of Arkiv features we haven't thought of |
 
 **Section score** = average of 6 sub-criteria, weighted at 40%
 
@@ -39,11 +39,11 @@ Does it work? Can a real user complete the core flows for the chosen vertical?
 
 | Sub-criteria | 1 (Weak) | 3 (Solid) | 5 (Excellent) |
 |-------------|----------|-----------|----------------|
-| **Core flows work** | Can't complete basic create or browse flow | Create + browse + view details all work end-to-end for the chosen vertical | All flows work reliably: create, browse, filter, view, interact, edit, manage dashboard |
+| **Core flows work** | Can't complete basic create or browse flow | Create + browse + view details all work end-to-end for the chosen vertical | All flows work reliably: create, browse, filter, view, interact, edit, manage, etc. |
 | **Filtering & search** | No filtering | 1-2 filters work (e.g., category, status, location) | Multiple filters, keyword search, filters combinable, results update correctly |
 | **Wallet integration** | Wallet connects but nothing happens | Wallet-gated features work (create, edit, manage) | Smooth wallet flow: connect, chain check, error states, disconnect. Blockchain complexity abstracted away. |
 | **Error handling** | Crashes or silent failures | Basic error messages shown to user | Graceful error states: network issues, failed transactions, validation errors. User always knows what's happening. |
-| **Data integrity** | Data inconsistencies, broken references | Data is consistent within the app | Entities stay in sync, status transitions are reliable, no orphaned data |
+| **Data integrity** | Data inconsistencies, broken references | Data is consistent within the app | Entities status transitions are reliable, no orphaned data |
 
 **Section score** = average of 5 sub-criteria, weighted at 30%
 
@@ -71,7 +71,7 @@ Can someone else understand and run your project?
 | Sub-criteria | 1 (Weak) | 3 (Solid) | 5 (Excellent) |
 |-------------|----------|-----------|----------------|
 | **README** | Missing or "TODO" | Setup instructions that work, basic description of the project | Clear README with architecture overview, setup steps, screenshots/demo GIF, and explanation of Arkiv integration approach |
-| **Code organization** | Single file or spaghetti | Reasonable file structure, components separated | Clean architecture, separation of concerns, Arkiv client abstracted, readable naming |
+| **Code organization** | Single file or spaghetti | Reasonable file structure, components separated | Clean architecture, separation of concerns, readable naming |
 | **Code quality** | Unreadable, no error handling | Consistent style, basic error handling | Clean, consistent, well-structured. Types where appropriate. No obvious security issues. |
 
 **Section score** = average of 3 sub-criteria, weighted at 10%
@@ -97,7 +97,7 @@ Each section score is the average of its sub-criteria (all on 1–5 scale), so t
 
 ## Judge Scorecard Template
 
-**Confirmed panel:** Marcos Miranda (Product), Seweryn (Technical), Veronica
+**Confirmed panel:** Marcos (Product @ Arkiv), Seweryn (Platfrom @ Arkiv), Veronica (1st prize winner @ Arkiv Track, Sub0 Hackathon BA 2025 )
 
 Each judge fills out one per submission:
 
