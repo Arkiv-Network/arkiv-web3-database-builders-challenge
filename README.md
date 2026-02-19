@@ -2,13 +2,13 @@
 
 # Arkiv Web3 Database Builders Challenge
 
-\[ ARKIV \] and [Ethereum Argentina](https://ethereumargentina.org/) continue their close association. After an iconic Hackathon at Devconnect Buenos Aires 2025, they're teaming up again \- this time to offer two lucky winners a $2k stipend (each) and tickets to [EthCC](https://ethcc.io/) in Cannes Mar 30-Apr 02\. Team \[ ARKIV \] saw the talent in Argentina, now it's time to share the best LATAM has to offer with Cannes\!
+After an iconic Hackathon at Devconnect Buenos Aires 2025, we're teaming up again with [Ethereum Argentina](https://ethereumargentina.org/) \- this time to offer two lucky winners a $2k stipend (each) and tickets to [EthCC](https://ethcc.io/) in Cannes Mar 30-Apr 02\. We saw the talent in Argentina, now it's time to share the best LATAM has to offer with Cannes\!
 
 Every Web3 team runs on centralized tools. Your events on Luma, your docs on GitBook, your job postings on LinkedIn. You're building decentralized systems on infrastructure you don't own.
 
 We think that's worth fixing. We know there's some devs in Argentina that probably have a way to fix it. Now's the chance.
 
-**The Arkiv Web3 Database Builders Challenge** is an invitation to build a Web3-native tool where the data layer is owned by users, not platforms. Pick one of three verticals; each one replaces a tool you already use with something you actually control.
+**The Arkiv Web3 Database Builders Challenge** is an invitation to build a Web3-native tool where the data is owned by users, not platforms. Pick one of three verticals; each one replaces a tool you already use with something you actually control.
 
 This isn't a hackathon sprint where you glue an API together in 48 hours and never touch it again. You get **two full weeks** to build something that actually works. Something you'd put in your portfolio. Something that could become a reference implementation other developers learn from.
 
@@ -30,14 +30,14 @@ All three are scored on the same rubric. There's no advantage to picking one ove
 
 **The obvious:**
 
-- Two winners, **$2,500 USD each** (paid in USDC). That's $2k towards flights and an additional $500 EthCC ticket covered. EthCC Cannes, March 30 – April 2\. All logistics, visa applications (if needed) will be on your shoulders, we support with the funds\!
+- Two winners, **$2,500 USD each** (paid in USDC). That's $2.5k towards flights and a EthCC ticket. EthCC Cannes, March 30 – April 2\. All logistics, visa applications (if needed) will be on your shoulders, we support with the funds\!
 - If you're a larger team (e.g. more than 2 people) or a smaller team \- that's fine, but the max prize delivered will be $2500 for each of the two winning submissions. How you split the funds is up to you!
 
 **The less obvious:**
 
 - Ship a working product on a data layer most devs haven't touched yet.
 - Code should be open source. The best submissions become a reference for other builders when they want to understand what's possible with Arkiv.
-- Support from the Arkiv team throughout the build window. Our actual team in Discord **\#builders-challenge** helping you when you get stuck.
+- Support from the Arkiv team throughout the build window. Our actual team in Discord [**\#builders-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) helping you when you get stuck.
 
 **The honest part:**
 

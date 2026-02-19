@@ -218,7 +218,7 @@ These rules are governed by the laws of Switzerland. Any disputes will be resolv
 
 ## 14. Contact
 
-Questions about these rules: **#builders-challenge** on Discord or marcos.miranda@golem.network
+Questions about these rules: [**#builders-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) on Discord or marcos.miranda@golem.network
 
 ---
 

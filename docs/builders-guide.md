@@ -189,7 +189,7 @@ All Arkiv entities have an expiration date — this is core to how Arkiv works, 
 3. **Pick your SDK** — [TypeScript](https://arkiv.network/getting-started/typescript) or [Python](https://arkiv.network/getting-started/python)
 4. **Explore the developer portal** — [arkiv.network/dev](https://arkiv.network/dev)
 5. **Connect to testnet** — [instructions in the getting started guides]
-6. **Join the Discord support channel** — #builders-challenge
+6. **Join the Discord support channel** — [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266)
 7. **Start with your primary entity** — get create + read working first, then build relationships on top
 ---
 
@@ -209,6 +209,6 @@ Submission form: [Submit here](https://tally.so/r/dW60jV)
 
 ## Questions?
 
-Join the **#builders-challenge** channel on Discord. The Arkiv team is there daily during the build window.
+Join the [**#builders-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) channel on Discord. The Arkiv team is there daily during the build window.
 
 Don't struggle alone. If you're stuck on an Arkiv integration issue, ask. We'd rather help you ship something great than watch you debug in silence for 3 days.

@@ -14,7 +14,7 @@ Anyone 18+, anywhere in the world. Solo or team. You don't need to be part of Et
 No. We provide an SDK, starter kit, and documentation on day 1. The Discord support channel is there for questions throughout the build window.
 
 **Where are the rules hosted?**
-On Discord, pinned in the **#builders-challenge** channel. There may also be an optional blog post linking to the rules.
+On Discord, pinned in the [**#builders-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) channel. There may also be an optional blog post linking to the rules.
 
 **Can I use AI tools (Copilot, Claude, ChatGPT)?**
 Yes. We care about the result, not how you got there.
@@ -85,7 +85,7 @@ Not required. It's a nice-to-have. You can build a fully functional submission u
 Arkiv testnet. You'll get testnet access on day 1.
 
 **Where do I get help if I'm stuck?**
-The #builders-challenge channel on Discord. The Arkiv team is there daily during the build window. Plus the two workshops are designed to help you get unstuck.
+The [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) channel on Discord. The Arkiv team is there daily during the build window. Plus the two workshops are designed to help you get unstuck.
 
 ---
 
@@ -161,4 +161,4 @@ Plagiarism, not using Arkiv as the data layer, malicious code, no working demo, 
 
 ---
 
-*Don't see your question? Ask in #builders-challenge on Discord.*
+*Don't see your question? Ask in [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) on Discord.*
