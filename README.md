@@ -55,9 +55,22 @@ All three are scored on the same rubric. There's no advantage to picking one ove
 
 ---
 
+## Timeline
+
+| Date | What |
+| :---- | :---- |
+| **Feb 23** | Submissions open / challenge kickstart |
+| **Mar 6** | Submissions close (23:59 UTC) |
+| **Mar 9–10** | Judging |
+| **Mar 10–11** | Winners announced |
+
+*The Organizer reserves the right to adjust these dates. Any changes will be communicated via Discord and official channels. See [RULES.md](RULES.md) for full terms.*
+
+---
+
 ## Quick Links
 
-The [**Builder's Guide**](docs/builders-guide.md) has the full reference for each vertical: minimum requirements, suggested entity design, tech stack, and what "Arkiv integration depth" actually means in terms of scoring.
+### Understand the Challenge
 
 | What | Where |
 | :---- | :---- |
@@ -65,10 +78,20 @@ The [**Builder's Guide**](docs/builders-guide.md) has the full reference for eac
 | **Official Rules** | [RULES.md](RULES.md) — terms, prizes, eligibility |
 | **Scoring Rubric** | [docs/scoring-rubric.md](docs/scoring-rubric.md) — how we score, what we look for |
 | **FAQ** | [FAQ.md](FAQ.md) — common questions answered |
+
+### Start Building
+
+| What | Where |
+| :---- | :---- |
 | **Arkiv Docs** | [arkiv.network/docs](https://arkiv.network/docs) |
 | **TypeScript SDK** | [Getting started](https://arkiv.network/getting-started/typescript) |
 | **Python SDK** | [Getting started](https://arkiv.network/getting-started/python) |
 | **Developer Portal** | [arkiv.network/dev](https://arkiv.network/dev) |
+
+### Submit & Get Help
+
+| What | Where |
+| :---- | :---- |
 | **Submit** | [Submission form](https://forms.arkiv.network/web3-db-challenge) |
 | **Discord** | [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) |
 
