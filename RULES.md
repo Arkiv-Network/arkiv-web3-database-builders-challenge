@@ -4,7 +4,7 @@
 
 ## 1. Overview
 
-The Arkiv Web3 Database Builders Challenge ("Challenge") is organized by Golem Factory, DBA as "Arkiv Network", ("Organizer") in collaboration with Ethereum Argentina ("Community Partner"). By submitting an entry, participants agree to these rules in full.
+The Arkiv Web3 Database Builders Challenge ("Challenge") is organized by Golem Factory GmbH, doing business as "Arkiv Network" ("Organizer"), in collaboration with Ethereum Argentina ("Community Partner"). By submitting an entry, participants agree to these rules in full.
 
 ---
 
@@ -16,23 +16,25 @@ The Arkiv Web3 Database Builders Challenge ("Challenge") is organized by Golem F
 - Employees of Arkiv/Golem Network and their immediate family members are not eligible
 - Members of the Ethereum Argentina organizing team may participate but are not eligible for prizes (to avoid conflict of interest)
 - One submission per individual or team. Multiple submissions will result in only the last submission being evaluated
-- Teams have no size limit, but only **one prize is awarded per winning team** (see Section 5)
+- Teams have a size limit of 5, but only **one prize is awarded per winning team** (see Section 5)
 
 ---
 
 ## 3. Challenge Period
 
-- **Registration opens:** February 20, 2026
+- **Submissions open:** February 23, 2026
 - **Challenge kickstart:** February 23, 2026
 - **Submissions close:** March 6, 2026 at 23:59 UTC
 - **Judging period:** March 9–10, 2026
-- **Winners announced:** March 10, 2026
+- **Winners announced:** March 10-11, 2026
 
-Late submissions will not be accepted. The timestamp of the submission form entry is the official record.
+Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and official channels.
 
 ---
 
 ## 4. Submission Requirements
+
+All submissions must be made via the [official submission form](https://forms.arkiv.network/web3-db-challenge). This is the only valid method of submission.
 
 All submissions must include:
 
@@ -47,7 +49,6 @@ All submissions must include:
 
 - Must fall within one of the three approved verticals: **Job Board**, **Event Platform**, or **Knowledge Base**
 - Must use Arkiv as the primary data layer
-- Must meet the minimum requirements for the chosen vertical as outlined in the [Builder's Guide](docs/builders-guide.md)
 - Must be original work created during the Challenge period
 - Pre-existing code (libraries, frameworks, boilerplate) is allowed, but the Arkiv integration and core application logic must be new
 - Use of AI coding assistants (Copilot, Claude, etc.) is allowed and encouraged — we care about the result, not how you got there
@@ -108,7 +109,7 @@ If a winner claims the stipend but cannot attend EthCC, they keep the stipend.
 
 Each team member must provide:
 
-1. **Government-issued ID** — Passport or national ID (photo page only)
+1. **Government-issued ID** — Passport (preferred) or national ID (photo page only)
 2. **Signed declaration form** — A PDF form provided by the Organizer. Must be **printed, signed by hand** ("wet ink"), and scanned or photographed. Digital or pasted signatures are not accepted.
 3. **Selfie with ID** — A photo of yourself holding your government ID next to your face
 
@@ -116,7 +117,7 @@ The declaration form will be available as a downloadable PDF linked from these r
 
 ### Process
 
-1. **Winner notified** via email (provided in submission form)
+1. **Winner notified** via email and Telegram (provided in submission form)
 2. **Demo video** — winner records a 2-3 minute demo (English or Spanish) and submits the link
 3. **KYC submission** — all team members submit the three documents listed above within **3 calendar days** of notification
 4. **Wallet confirmation** — all team members indicate the same EVM wallet address in their KYC form, confirming their consent to receive the prize at that address
@@ -128,7 +129,6 @@ The declaration form will be available as a downloadable PDF linked from these r
 - KYC documents are forwarded to the Organizer's compliance office for processing
 - Government IDs and signed forms are retained per the Organizer's compliance requirements
 - KYC data will not be shared with third parties except as required by law
-- Email addresses and wallet addresses are retained for audit records (1 year)
 
 ---
 
@@ -137,9 +137,8 @@ The declaration form will be available as a downloadable PDF linked from these r
 ### Panel
 
 - Marcos Miranda — Arkiv, Product
-- Seweryn — Arkiv, Technical
-- Veronica — Arkiv
-
+- Seweryn — Arkiv, Platform
+- Veronica — Builder, 1st Prize Winner - Arkiv Track @ Sub0 Hackathon 2025 BA
 
 Ethereum Argentina is the Community Partner and does not participate in judging to maintain impartiality.
 

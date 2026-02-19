@@ -49,8 +49,8 @@ All three are scored on the same rubric. There's no advantage to picking one ove
 
 - Developers who can build a full-stack web application
 - This challenge is run in collaboration with Ethereum Argentina, but anyone from any location is welcome to take part.
-- Solo or team \- our assumption is the teams will be 2 people, but we accept winning ideas from an individual or a larger group. The prize fund remains the same.
-- Any stack on the frontend — Arkiv is the data layer, you pick everything else
+- Solo or team, the prize fund remains the same.
+- Any stack on the frontend — Arkiv is the web3 database, you pick everything else
 - You don't need to know Arkiv beforehand. The starter kit and docs will get you there.
 
 ---
@@ -69,6 +69,7 @@ The [**Builder's Guide**](docs/builders-guide.md) has the full reference for eac
 | **TypeScript SDK** | [Getting started](https://arkiv.network/getting-started/typescript) |
 | **Python SDK** | [Getting started](https://arkiv.network/getting-started/python) |
 | **Developer Portal** | [arkiv.network/dev](https://arkiv.network/dev) |
+| **Submit** | [Submission form](https://forms.arkiv.network/web3-db-challenge) |
 | **Discord** | [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) |
 
 ---

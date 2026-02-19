@@ -5,7 +5,7 @@
 ### General
 
 **What is the Arkiv Web3 Database Builders Challenge?**
-An invitation to build a web3-native application using Arkiv as the data layer. Pick one of three verticals — Job Board, Event Platform, or Knowledge Base. Two winners get $2,500 USD each (paid in USDC) to cover travel and EthCC admission.
+An invitation to build a web3-native application using Arkiv as the data layer. Pick one of three verticals — Job Board, Event Platform, or Knowledge Base. Two winning teams get $2,500 USD each (paid in USDC) to cover travel and EthCC admission.
 
 **Who can participate?**
 Anyone 18+, anywhere in the world. Solo or team. You don't need to be part of Ethereum Argentina.
@@ -14,7 +14,7 @@ Anyone 18+, anywhere in the world. Solo or team. You don't need to be part of Et
 No. We provide an SDK, starter kit, and documentation on day 1. The Discord support channel is there for questions throughout the build window.
 
 **Where are the rules hosted?**
-On Discord, pinned in the [**#builders-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) channel. There may also be an optional blog post linking to the rules.
+In this repo — see [RULES.md](RULES.md). They're also pinned in the [**#builders-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) Discord channel.
 
 **Can I use AI tools (Copilot, Claude, ChatGPT)?**
 Yes. We care about the result, not how you got there.
@@ -44,7 +44,7 @@ No. They're designed to be roughly equal in complexity. Each has a reference dat
 No. All verticals are scored on the same rubric. A great Event Platform scores the same as a great Job Board.
 
 **Can I combine verticals?**
-We'd rather you go deep on one than shallow on two. Pick one and make it excellent. But if you build something that naturally spans two verticals (e.g., an event platform with ticketing credentials), that's fine — just be clear which vertical you're submitting under.
+We'd rather you go deep on one than shallow on two. Pick one and make it excellent. But if you build something that naturally spans two verticals, that's fine — just be clear which vertical you're submitting under.
 
 **Can multiple teams pick the same vertical?**
 Yes. There's no cap per vertical. If 8 teams all build a Job Board, that's fine — they're evaluated against each other and against submissions from other verticals.
@@ -54,7 +54,7 @@ Yes. There's no cap per vertical. If 8 teams all build a Job Board, that's fine 
 ### Teams & Submissions
 
 **Can I participate as a team?**
-Yes. No size limit. But there's only one prize per winning team — $2,500 USDC. How you split the stipend is up to you.
+Yes. The team size limit is 5 members. But there's only one prize per winning team — $2,500 USDC. How you split the stipend is up to you.
 
 **If my team wins, how is the prize distributed?**
 All team members must complete KYC, and the $2,500 is sent to one wallet. See [Rules Section 7](RULES.md#7-kyc--prize-disbursement) for details.
@@ -66,7 +66,7 @@ No. One submission per individual or team. If you submit multiple times, only th
 Yes. The form allows edits until the deadline. After the deadline, submissions are final.
 
 **What's required in my submission?**
-Your chosen vertical, public GitHub repo, working demo URL, README with setup instructions, and the completed submission form. A demo video is recommended but not required at submission. **If you win, a demo video (2-3 min, English or Spanish) is required before prize claim.**
+Your chosen vertical, public GitHub repo, working demo URL, README with setup instructions, and the completed [submission form](https://forms.arkiv.network/web3-db-challenge). Full details in [RULES.md](RULES.md).
 
 ---
 
@@ -82,20 +82,20 @@ Yes. Arkiv is the data layer — pick whatever you want for the frontend, stylin
 Not required. It's a nice-to-have. You can build a fully functional submission using only the Arkiv SDK.
 
 **What chain does this run on?**
-Arkiv testnet. You'll get testnet access on day 1.
+Arkiv testnet. Faucet, RPC endpoints, and everything you need to get started are in the [Developer Portal](https://arkiv.network/dev).
 
 **Where do I get help if I'm stuck?**
-The [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) channel on Discord. The Arkiv team is there daily during the build window. Plus the two workshops are designed to help you get unstuck.
+The [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) channel on Discord. The Arkiv team is there daily during the build window.
 
 ---
 
 ### Prizes & Travel
 
 **What exactly do I win?**
-1st and 2nd place each receive: **$2,500 USD paid in USDC** — a stipend to cover self-organized travel and EthCC Cannes admission (March 30 – April 2, 2026). You arrange your own flights, ticket, and accommodation.
+1st and 2nd place each receive: **$2,500 USD paid in USDC** — a stipend to cover self-organized travel and EthCC[9] in Cannes admission (March 30 – April 2, 2026). You arrange your own visa (if needed), flights, ticket, and accommodation.
 
 **Do I need to record a demo video?**
-Not to submit — a demo video is recommended but optional at submission time. **If you win**, you must record a 2-3 minute demo (English or Spanish) before claiming your prize. This gives Arkiv content to share and gives your project visibility.
+Yes — a demo video is recommended but you can also submit slides. This gives Arkiv content to share and gives your project visibility.
 
 **Can both winners be from the same vertical?**
 Yes. We pick the two best submissions regardless of vertical.
@@ -138,7 +138,7 @@ See the [Scoring Rubric](docs/scoring-rubric.md) for the detailed breakdown of w
 The rubric is designed to be vertical-agnostic. "Arkiv integration depth" means the same thing whether you built a Job Board or a Knowledge Base — proper entity schemas, queryable attributes, wallet ownership, entity relationships. A great Event Platform and a great Job Board score the same.
 
 **Who are the judges?**
-Arkiv team members. Marcos Miranda (Product), Seweryn (Technical), and Veronica are confirmed. Ethereum Argentina does not participate in judging.
+Marcos Miranda (Product, Arkiv), Seweryn (Platform, Arkiv), and Veronica (Builder, 1st Prize Winner — Arkiv Track @ Sub0 Hackathon 2025 BA). Ethereum Argentina does not participate in judging.
 
 **Can I get feedback on my submission?**
 Winners get feedback through the announcement. Individual feedback for non-winners may happen post-challenge but isn't guaranteed.
