@@ -1,3 +1,5 @@
+![Arkiv Web3 Database Builders Challenge](assets/cover.png)
+
 # Arkiv Web3 Database Builders Challenge
 
 \[ ARKIV \] and [Ethereum Argentina](https://ethereumargentina.org/) continue their close association. After an iconic Hackathon at Devconnect Buenos Aires 2025, they're teaming up again \- this time to offer two lucky winners a $2k stipend (each) and tickets to [EthCC](https://ethcc.io/) in Cannes Mar 30-Apr 02\. Team \[ ARKIV \] saw the talent in Argentina, now it's time to share the best LATAM has to offer with Cannes\!
