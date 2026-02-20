@@ -136,7 +136,7 @@ The declaration form will be available as a downloadable PDF linked from these r
 
 ### Panel
 
-- Marcos Miranda — Arkiv, Product
+- Marcos — Arkiv, Product
 - Seweryn — Arkiv, Platform
 - Veronica — Builder, 1st Prize Winner - Arkiv Track @ Sub0 Hackathon 2025 BA
 
