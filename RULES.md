@@ -109,9 +109,9 @@ If a winner claims the stipend but cannot attend EthCC, they keep the stipend.
 
 Each team member must provide:
 
-1. **Government-issued ID** — Passport (preferred) or national ID (photo page only). Signature must be visible on the ID.
-2. **Signed declaration form** — A PDF form provided by the Organizer. Must be **printed, signed by hand** ("wet ink"), and scanned or photographed. Digital or pasted signatures are not accepted.
-3. **Selfie with ID** — A photo of yourself holding your government ID next to your face
+1. **Government-issued ID** — Passport (preferred): a clear photo or scan of the identification page. National ID: both sides. The document must include your printed signature (most passports have one on the photo page).
+2. **Signed declaration form** — We'll provide a PDF form. Print it, **sign it by hand with a pen**, then scan or photograph it. We do not accept digital, typed, or pasted signatures.
+3. **Selfie with ID** — A photo of yourself holding your ID next to your face. Both your face and the ID must be clearly readable.
 
 The declaration form will be available as a downloadable PDF linked from these rules and the submission form.
 
