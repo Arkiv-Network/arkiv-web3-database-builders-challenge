@@ -14,7 +14,7 @@ Anyone 18+, anywhere in the world. Solo or team. You don't need to be part of Et
 No. We provide an SDK, starter kit, and documentation on day 1. The Discord support channel is there for questions throughout the build window.
 
 **Where are the rules hosted?**
-In this repo — see [RULES.md](RULES.md). They're also pinned in the [**#builders-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) Discord channel.
+In this repo — see [RULES.md](RULES.md). They're also pinned in the [**#builders-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) channel on our [Discord](https://discord.gg/arkiv).
 
 **Can I use AI tools (Copilot, Claude, ChatGPT)?**
 Yes. We care about the result, not how you got there.
@@ -85,7 +85,7 @@ Not required. It's a nice-to-have. You can build a fully functional submission u
 Arkiv testnet. Faucet, RPC endpoints, and everything you need to get started are in the [Developer Portal](https://arkiv.network/dev).
 
 **Where do I get help if I'm stuck?**
-The [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) channel on Discord. The Arkiv team is there daily during the build window.
+The [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) channel on our [Discord](https://discord.gg/arkiv). The Arkiv team is there daily during the build window.
 
 ---
 
@@ -161,4 +161,4 @@ Plagiarism, not using Arkiv as the data layer, malicious code, no working demo, 
 
 ---
 
-*Don't see your question? Ask in [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) on Discord.*
+*Don't see your question? Join our [Discord](https://discord.gg/arkiv) and ask in [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266).*

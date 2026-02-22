@@ -37,7 +37,7 @@ All three are scored on the same rubric. There's no advantage to picking one ove
 
 - Ship a working product on a data layer most devs haven't touched yet.
 - Code should be open source. The best submissions become a reference for other builders when they want to understand what's possible with Arkiv.
-- Support from the Arkiv team throughout the build window. Our actual team in Discord [**\#builders-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) helping you when you get stuck.
+- Support from the Arkiv team throughout the build window. Our actual team in [Discord](https://discord.gg/arkiv) [**\#builders-challenge**](https://discord.com/channels/1422146278883852412/1473629252183392266) helping you when you get stuck.
 
 **The honest part:**
 
@@ -93,7 +93,7 @@ All three are scored on the same rubric. There's no advantage to picking one ove
 | What | Where |
 | :---- | :---- |
 | **Submit** | [Submission form](https://forms.arkiv.network/web3-db-challenge) |
-| **Discord** | [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) |
+| **Discord** | [Join our server](https://discord.gg/arkiv) → [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) |
 
 ---
 
