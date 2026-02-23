@@ -93,7 +93,7 @@ All three are scored on the same rubric. There's no advantage to picking one ove
 | What | Where |
 | :---- | :---- |
 | **Submit** | [Submission form](https://forms.arkiv.network/web3-db-challenge) |
-| **Discord** | [Join our server](https://discord.gg/arkiv) → [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) |
+| **Discord** | [Join our server](https://discord.gg/arkiv) → #builders-challenge |
 
 ---
 
