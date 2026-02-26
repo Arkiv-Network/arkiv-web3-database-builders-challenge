@@ -9,7 +9,7 @@
 > | **WebSocket RPC** | `wss://kaolin.hoodi.arkiv.network/rpc/ws` |
 > | **Standard Bridge** | `0x6db217C596Cd203256058dBbFcA37d5A62161b78` |
 >
-> The [Developer Portal](https://arkiv.network/dev) is being updated to reflect this. Questions? Ask in [#builders-challenge on Discord](https://discord.gg/arkiv).
+> The [Developer Portal](https://arkiv.network/dev) is being updated to reflect this. Questions? Ask in **#builders-challenge** on [Discord](https://discord.gg/arkiv).
 
 # Arkiv Web3 Database Builders Challenge
 

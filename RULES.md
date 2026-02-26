@@ -217,7 +217,7 @@ These rules are governed by the laws of Switzerland. Any disputes will be resolv
 
 ## 14. Contact
 
-Questions about these rules: join our [Discord](https://discord.gg/arkiv) and ask in [**#builders-challenge**](https://discord.gg/arkiv), or email marcos.miranda@golem.network
+Questions about these rules: join our [Discord](https://discord.gg/arkiv) and ask in **#builders-challenge**.
 
 ---
 
