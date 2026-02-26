@@ -35,6 +35,18 @@ The official rules, guides, and resources for the **Arkiv Web3 Database Builders
 - **TypeScript SDK:** https://arkiv.network/getting-started/typescript
 - **Python SDK:** https://arkiv.network/getting-started/python
 
+### Current Testnet: Kaolin (as of Feb 25, 2026)
+
+Mendoza testnet is unstable. **Use Kaolin for all building:**
+
+| | |
+|---|---|
+| **Network ID** | `60138453025` |
+| **HTTP RPC** | `https://kaolin.hoodi.arkiv.network/rpc` |
+| **WebSocket RPC** | `wss://kaolin.hoodi.arkiv.network/rpc/ws` |
+| **Standard Bridge** | `0x6db217C596Cd203256058dBbFcA37d5A62161b78` |
+| **JS SDK version** | `@arkiv-network/sdk` v0.6.0 |
+
 ## Minimum Technical Requirements
 
 Every submission must:

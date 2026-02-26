@@ -84,6 +84,17 @@ Not required. It's a nice-to-have. You can build a fully functional submission u
 **What chain does this run on?**
 Arkiv testnet. Faucet, RPC endpoints, and everything you need to get started are in the [Developer Portal](https://arkiv.network/dev).
 
+> **Network Notice (Feb 25, 2026):** The Mendoza testnet is currently unstable. Please use **Kaolin** (Hoodi-based) instead:
+>
+> | | |
+> |---|---|
+> | **Network ID** | `60138453025` |
+> | **HTTP RPC** | `https://kaolin.hoodi.arkiv.network/rpc` |
+> | **WebSocket RPC** | `wss://kaolin.hoodi.arkiv.network/rpc/ws` |
+> | **Standard Bridge** | `0x6db217C596Cd203256058dBbFcA37d5A62161b78` |
+>
+> If you're using the JS SDK, use `@arkiv-network/sdk` **v0.6.0**.
+
 **Where do I get help if I'm stuck?**
 The [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266) channel on our [Discord](https://discord.gg/arkiv). The Arkiv team is there daily during the build window.
 
