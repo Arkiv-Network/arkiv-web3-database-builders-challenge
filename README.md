@@ -1,6 +1,6 @@
 ![Arkiv Web3 Database Builders Challenge](assets/cover.png)
 
-> **Network Notice (Feb 25, 2026):** The Mendoza testnet is currently unstable and may return outdated data or errors. Please use **Kaolin** (Hoodi-based) for all building. If you're using the JS SDK, use `@arkiv-network/sdk` **v0.6.0**.
+> **Network Notice (Feb 25, 2026):** The Mendoza testnet is currently unstable and may return outdated data or errors. Please use **Kaolin** (Hoodi-based) for all building. If you're using the TS/JS SDK, use `@arkiv-network/sdk` **v0.6.0 or newer**.
 >
 > | | |
 > |---|---|
@@ -9,7 +9,7 @@
 > | **WebSocket RPC** | `wss://kaolin.hoodi.arkiv.network/rpc/ws` |
 > | **Standard Bridge** | `0x6db217C596Cd203256058dBbFcA37d5A62161b78` |
 >
-> The [Developer Portal](https://arkiv.network/dev) is being updated to reflect this. Questions? Ask in [#builders-challenge](https://discord.com/channels/1422146278883852412/1473629252183392266).
+> The [Developer Portal](https://arkiv.network/dev) is being updated to reflect this. Questions? Ask in [#builders-challenge on Discord](https://discord.gg/arkiv).
 
 # Arkiv Web3 Database Builders Challenge
 

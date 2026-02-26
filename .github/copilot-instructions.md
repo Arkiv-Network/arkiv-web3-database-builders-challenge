@@ -45,7 +45,7 @@ Mendoza testnet is unstable. **Use Kaolin for all building:**
 | **HTTP RPC** | `https://kaolin.hoodi.arkiv.network/rpc` |
 | **WebSocket RPC** | `wss://kaolin.hoodi.arkiv.network/rpc/ws` |
 | **Standard Bridge** | `0x6db217C596Cd203256058dBbFcA37d5A62161b78` |
-| **JS SDK version** | `@arkiv-network/sdk` v0.6.0 |
+| **TS/JS SDK version** | `@arkiv-network/sdk` v0.6.0 or newer |
 
 ## Minimum Technical Requirements
 
